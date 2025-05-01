@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afif404&label=Profile%20views&color=0e75b6&style=flat" alt="afif404" /> </p>
 
-- 🔭 I’m currently working with **AI, LLMs, and Web Development**
+- 🔭 I’m currently working with **AI and Web Development**
 - 🌱 I’m exploring **new frontiers in machine learning and generative AI**
 - 👨‍💻 All of my projects are available at [https://github.com/afif404](https://github.com/afif404)
-- 📫 How to reach me **afif404.dev@gmail.com**
+- 📫 How to reach me **afifalamgir@gmail.com**
 
 ---
 
