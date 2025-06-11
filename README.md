@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Afif Alamgir</h1>
 <h3 align="center">An AI/ML researcher and passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afif404&label=Profile%20views&color=0e75b6&style=flat" alt="afif404" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=afif404&label=Profile%20views&color=0e75b6&style=flat" alt="afif404" />
+</p>
 
-- 🔭 I’m currently working with **AI and Web Development**
-- 🌱 I’m exploring **new frontiers in machine learning and generative AI**
-- 👨‍💻 All of my projects are available at [https://github.com/afif404](https://github.com/afif404)
+- 🔭 I’m currently working with **AI and Web Development**  
+- 🌱 I’m exploring **new frontiers in machine learning and generative AI**  
+- 👨‍💻 All of my projects are available at [https://github.com/afif404](https://github.com/afif404)  
 - 📫 How to reach me **afifalamgir@gmail.com**
 
 ---
@@ -33,6 +35,7 @@
 ---
 
 ### 🧩 Frameworks and Libraries:
+
 #### Frontend:
 <p align="left">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
@@ -73,7 +76,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afif404&show_icons=true&theme=graywhite&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afif404&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afif404&layout=compact&theme=graywhite" height="150"/>
   <img src="https://streak-stats.demolab.com?user=afif404&theme=graywhite" height="150"/>
 </p>
