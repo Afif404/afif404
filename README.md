@@ -1,56 +1,107 @@
-# ⚡ Afif Alamgir
-<p align="center">
-  <b>AI/ML Researcher • Full-Stack Developer • Problem Solver</b>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=afif404.afif404" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afif404&label=Profile%20Views&color=0e75b6&style=flat-square" alt="afif404" />
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover;" alt="Banner">
 </p>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Next.js+AI+Engineer;SaaS+%26+Enterprise+Architect;AI%2FML+Researcher;CRM+%2B+CMS+Expert" alt="Typing SVG">
+  <p>
+    <strong>Software Engineer at Techneth</strong> | Specializing in <strong>SaaS Architecture</strong> and <strong>Intelligent Systems</strong>
+  </p>
+</div>
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Bridging the gap between AI Research and Web Scalability.
-- 🌱 **Learning:** Deep diving into Generative AI architectures and LLM orchestration.
-- 👨‍💻 **Portfolio:** Exploring my latest builds at [github.com/afif404](https://github.com/afif404)
-- 📫 **Reach Me:** [afifalamgir@gmail.com](mailto:afifalamgir@gmail.com)
+<div align="center">
+  <p>
+    <img src="https://cdn.simpleicons.org/nextdotjs/white" width="15"> Scalable SaaS Architectures &nbsp; | &nbsp; 
+    <img src="https://cdn.simpleicons.org/python/white" width="15"> Autonomous RAG Pipelines &nbsp; | &nbsp; 
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="15"> Custom CRM/CMS Development
+  </p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=40&section=header" width="100%" alt="wave">
 
-### 🧠 Machine Learning & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/googlemessages/00d1ff" width="25"> Connect & Network
+</h2>
 
-### 💻 Full-Stack Development
-**Languages & Core** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
+  <a href="https://afifalamgir-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/afif-alamgir">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="mailto:afifalamgir@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+  </a> &nbsp;
+  <a href="https://instagram.com/__.lizel.__">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
-**Frontend & Mobile** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
 
-**Backend & Databases** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/stackbit/00d1ff" width="25"> Specialized Systems & Stack
+</h2>
 
----
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=350&height=45&duration=3000&color=00D1FF&lines=Languages+%26+Frameworks"><br><br>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="45" title="TypeScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45" title="Next.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" title="Tailwind CSS" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="45" title="Flutter" />
+  <br><br><br>
 
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afif404&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afif404&layout=compact&theme=transparent&border_radius=10" height="150"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=450&height=45&duration=3000&color=00D1FF&lines=SaaS+Infrastructure+%26+Databases"><br><br>
+  <img src="https://cdn.simpleicons.org/django/092E20" width="45" title="Django" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/white" width="45" title="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45" title="Firebase" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" title="PostgreSQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" title="MySQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker" />
+  <br><br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=afif404&theme=transparent&border_radius=10" width="100%"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=400&height=45&duration=3000&color=00D1FF&lines=AI+Research+%26+Neural+Systems"><br><br>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" title="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" title="Scikit-learn" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="45" title="NumPy" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/white" width="45" title="Ollama" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" width="45" title="LangChain / RAG" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/EE4C2C" width="45" title="CNN" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/3776AB" width="45" title="BNN" />
+  <br><br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=350&height=45&duration=3000&color=00D1FF&lines=Design+%26+Workflow+Tools"><br><br>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="45" title="Canva" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/latex/white" width="45" title="LaTeX" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=40&section=footer" width="100%" alt="wave">
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/googleanalytics/00d1ff" width="25"> System Contributions & Activity
+</h2>
+
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=afif404&bg_color=1a1b27&color=00d1ff&line=00d1ff&point=white&area=true&hide_border=true&custom_title=System%20Contributions" alt="Activity Graph">
+  <br><br>
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afif404&theme=tokyonight" alt="Profile Chart">
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afif404&theme=tokyonight" alt="Productivity Chart">
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=70&duration=4000&color=00D1FF&lines=Architecting+the+future+with+AI+✌️;Building+Scalable+SaaS+Solutions;Always+open+for+collaboration">
+</h3>
