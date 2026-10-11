@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Send the brief. afifalamgir@gmail.com">
+<defs>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="c"><rect width="1200" height="260" rx="20"/></clipPath>
+</defs>
+<style>
+  .caret{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .arrow{animation:nudge 2.4s cubic-bezier(.6,0,.3,1) infinite}
+  @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="260" fill="#030405"/>
+  <circle r="160" fill="#00D1FF" opacity=".18" filter="url(#blur)">
+    <animateMotion dur="20s" repeatCount="indefinite" path="M1000 200 C 1150 80, 820 20, 860 160 S 900 300, 1000 200"/>
+  </circle>
+  <text x="56" y="70" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#6B7280">CONTACT</text>
+  <text x="52" y="150" font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="600" letter-spacing="-3" fill="#EDEFF2">Send the <tspan font-weight="300" font-style="italic" fill="#00D1FF">brief.</tspan><tspan class="caret" dx="10" font-weight="300" fill="#00D1FF">_</tspan></text>
+  <text x="56" y="212" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6B7280">afifalamgir@gmail.com</text>
+  <g class="arrow"><text x="1144" y="212" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#EDEFF2">START A PROJECT →</text></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="259" rx="20" fill="none" stroke="#EDEFF2" stroke-opacity=".08"/>
+</svg>

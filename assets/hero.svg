@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Afif Alamgir, full-stack and AI engineer">
+<defs>
+  <clipPath id="frame"><rect width="1200" height="460" rx="20"/></clipPath>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+  <linearGradient id="strokeFade" x1="0" x2="1">
+    <stop offset="0" stop-color="#00D1FF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#00D1FF"/>
+    <stop offset="1" stop-color="#00D1FF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-600" x2="0" y1="0" y2="0">
+    <stop offset="0" stop-color="#EDEFF2"/>
+    <stop offset=".45" stop-color="#EDEFF2"/>
+    <stop offset=".5" stop-color="#00D1FF"/>
+    <stop offset=".55" stop-color="#EDEFF2"/>
+    <stop offset="1" stop-color="#EDEFF2"/>
+    <animate attributeName="x1" values="-600;1200" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0;1800" dur="7s" repeatCount="indefinite"/>
+  </linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#EDEFF2" stroke-opacity=".035"/>
+  </pattern>
+  <radialGradient id="vignette" cx=".5" cy=".4" r=".75">
+    <stop offset=".55" stop-color="#030405" stop-opacity="0"/><stop offset="1" stop-color="#030405"/>
+  </radialGradient>
+</defs>
+<style>
+  .mono{font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:13px;letter-spacing:.08em;fill:#6B7280}
+  .up{opacity:0;animation:up 1.1s cubic-bezier(.2,.7,.1,1) forwards}
+  .d1{animation-delay:.15s} .d2{animation-delay:.35s} .d3{animation-delay:.6s} .d4{animation-delay:.9s}
+  @keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  .draw{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.6s .5s cubic-bezier(.6,0,.2,1) forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .dot{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  .scroll{animation:drop 2.2s cubic-bezier(.6,0,.4,1) infinite}
+  @keyframes drop{0%{transform:translateY(-14px);opacity:0}40%{opacity:1}100%{transform:translateY(14px);opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="460" fill="#030405"/>
+  <rect width="1200" height="460" fill="url(#grid)"/>
+  <g filter="url(#blur)" opacity=".5">
+    <circle r="150" fill="#00D1FF" opacity=".35">
+      <animateMotion dur="24s" repeatCount="indefinite" path="M900 120 C 1050 260, 780 380, 700 220 S 820 40, 900 120"/>
+    </circle>
+    <circle r="120" fill="#5B5BFF" opacity=".25">
+      <animateMotion dur="30s" repeatCount="indefinite" path="M300 360 C 160 260, 420 120, 520 260 S 420 420, 300 360"/>
+    </circle>
+  </g>
+  
+  <path fill="none" stroke="url(#strokeFade)" stroke-width="1.1" opacity="0.8" d="M -50 362.0 C 1.0 362.0, 50.5 379.6, 100.0 379.6 C 151.0 379.6, 200.5 348.8, 250.0 348.8 C 301.0 348.8, 350.5 370.8, 400.0 370.8 C 451.0 370.8, 500.5 342.2, 550.0 342.2 C 601.0 342.2, 650.5 377.4, 700.0 377.4 C 751.0 377.4, 800.5 355.4, 850.0 355.4 C 901.0 355.4, 950.5 381.8, 1000.0 381.8 C 1051.0 381.8, 1100.5 351.0, 1150.0 351.0 C 1201.0 351.0, 1250.5 366.4, 1300.0 366.4">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+      values="M -50 362.0 C 1.0 362.0, 50.5 379.6, 100.0 379.6 C 151.0 379.6, 200.5 348.8, 250.0 348.8 C 301.0 348.8, 350.5 370.8, 400.0 370.8 C 451.0 370.8, 500.5 342.2, 550.0 342.2 C 601.0 342.2, 650.5 377.4, 700.0 377.4 C 751.0 377.4, 800.5 355.4, 850.0 355.4 C 901.0 355.4, 950.5 381.8, 1000.0 381.8 C 1051.0 381.8, 1100.5 351.0, 1150.0 351.0 C 1201.0 351.0, 1250.5 366.4, 1300.0 366.4;M -50 375.2 C 1.0 375.2, 50.5 346.6, 100.0 346.6 C 151.0 346.6, 200.5 381.8, 250.0 381.8 C 301.0 381.8, 350.5 353.2, 400.0 353.2 C 451.0 353.2, 500.5 373.0, 550.0 373.0 C 601.0 373.0, 650.5 344.4, 700.0 344.4 C 751.0 344.4, 800.5 377.4, 850.0 377.4 C 901.0 377.4, 950.5 357.6, 1000.0 357.6 C 1051.0 357.6, 1100.5 370.8, 1150.0 370.8 C 1201.0 370.8, 1250.5 348.8, 1300.0 348.8;M -50 362.0 C 1.0 362.0, 50.5 379.6, 100.0 379.6 C 151.0 379.6, 200.5 348.8, 250.0 348.8 C 301.0 348.8, 350.5 370.8, 400.0 370.8 C 451.0 370.8, 500.5 342.2, 550.0 342.2 C 601.0 342.2, 650.5 377.4, 700.0 377.4 C 751.0 377.4, 800.5 355.4, 850.0 355.4 C 901.0 355.4, 950.5 381.8, 1000.0 381.8 C 1051.0 381.8, 1100.5 351.0, 1150.0 351.0 C 1201.0 351.0, 1250.5 366.4, 1300.0 366.4"/>
+  </path>
+  <path fill="none" stroke="url(#strokeFade)" stroke-width="1.1" opacity="0.45" d="M -50 393.0 C 1.0 393.0, 50.5 376.8, 100.0 376.8 C 151.0 376.8, 200.5 396.6, 250.0 396.6 C 301.0 396.6, 350.5 369.6, 400.0 369.6 C 451.0 369.6, 500.5 389.4, 550.0 389.4 C 601.0 389.4, 650.5 373.2, 700.0 373.2 C 751.0 373.2, 800.5 400.2, 850.0 400.2 C 901.0 400.2, 950.5 371.4, 1000.0 371.4 C 1051.0 371.4, 1100.5 387.6, 1150.0 387.6 C 1201.0 387.6, 1250.5 376.8, 1300.0 376.8">
+    <animate attributeName="d" dur="19s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+      values="M -50 393.0 C 1.0 393.0, 50.5 376.8, 100.0 376.8 C 151.0 376.8, 200.5 396.6, 250.0 396.6 C 301.0 396.6, 350.5 369.6, 400.0 369.6 C 451.0 369.6, 500.5 389.4, 550.0 389.4 C 601.0 389.4, 650.5 373.2, 700.0 373.2 C 751.0 373.2, 800.5 400.2, 850.0 400.2 C 901.0 400.2, 950.5 371.4, 1000.0 371.4 C 1051.0 371.4, 1100.5 387.6, 1150.0 387.6 C 1201.0 387.6, 1250.5 376.8, 1300.0 376.8;M -50 373.2 C 1.0 373.2, 50.5 400.2, 100.0 400.2 C 151.0 400.2, 200.5 378.6, 250.0 378.6 C 301.0 378.6, 350.5 394.8, 400.0 394.8 C 451.0 394.8, 500.5 369.6, 550.0 369.6 C 601.0 369.6, 650.5 391.2, 700.0 391.2 C 751.0 391.2, 800.5 375.0, 850.0 375.0 C 901.0 375.0, 950.5 398.4, 1000.0 398.4 C 1051.0 398.4, 1100.5 371.4, 1150.0 371.4 C 1201.0 371.4, 1250.5 393.0, 1300.0 393.0;M -50 393.0 C 1.0 393.0, 50.5 376.8, 100.0 376.8 C 151.0 376.8, 200.5 396.6, 250.0 396.6 C 301.0 396.6, 350.5 369.6, 400.0 369.6 C 451.0 369.6, 500.5 389.4, 550.0 389.4 C 601.0 389.4, 650.5 373.2, 700.0 373.2 C 751.0 373.2, 800.5 400.2, 850.0 400.2 C 901.0 400.2, 950.5 371.4, 1000.0 371.4 C 1051.0 371.4, 1100.5 387.6, 1150.0 387.6 C 1201.0 387.6, 1250.5 376.8, 1300.0 376.8"/>
+  </path>
+  <path fill="none" stroke="url(#strokeFade)" stroke-width="1.1" opacity="0.25" d="M -50 401.8 C 1.0 401.8, 50.5 414.4, 100.0 414.4 C 151.0 414.4, 200.5 393.4, 250.0 393.4 C 301.0 393.4, 350.5 413.0, 400.0 413.0 C 451.0 413.0, 500.5 403.2, 550.0 403.2 C 601.0 403.2, 650.5 417.2, 700.0 417.2 C 751.0 417.2, 800.5 397.6, 850.0 397.6 C 901.0 397.6, 950.5 410.2, 1000.0 410.2 C 1051.0 410.2, 1100.5 396.2, 1150.0 396.2 C 1201.0 396.2, 1250.5 418.6, 1300.0 418.6">
+    <animate attributeName="d" dur="24s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+      values="M -50 401.8 C 1.0 401.8, 50.5 414.4, 100.0 414.4 C 151.0 414.4, 200.5 393.4, 250.0 393.4 C 301.0 393.4, 350.5 413.0, 400.0 413.0 C 451.0 413.0, 500.5 403.2, 550.0 403.2 C 601.0 403.2, 650.5 417.2, 700.0 417.2 C 751.0 417.2, 800.5 397.6, 850.0 397.6 C 901.0 397.6, 950.5 410.2, 1000.0 410.2 C 1051.0 410.2, 1100.5 396.2, 1150.0 396.2 C 1201.0 396.2, 1250.5 418.6, 1300.0 418.6;M -50 417.2 C 1.0 417.2, 50.5 399.0, 100.0 399.0 C 151.0 399.0, 200.5 411.6, 250.0 411.6 C 301.0 411.6, 350.5 393.4, 400.0 393.4 C 451.0 393.4, 500.5 415.8, 550.0 415.8 C 601.0 415.8, 650.5 401.8, 700.0 401.8 C 751.0 401.8, 800.5 414.4, 850.0 414.4 C 901.0 414.4, 950.5 400.4, 1000.0 400.4 C 1051.0 400.4, 1100.5 418.6, 1150.0 418.6 C 1201.0 418.6, 1250.5 403.2, 1300.0 403.2;M -50 401.8 C 1.0 401.8, 50.5 414.4, 100.0 414.4 C 151.0 414.4, 200.5 393.4, 250.0 393.4 C 301.0 393.4, 350.5 413.0, 400.0 413.0 C 451.0 413.0, 500.5 403.2, 550.0 403.2 C 601.0 403.2, 650.5 417.2, 700.0 417.2 C 751.0 417.2, 800.5 397.6, 850.0 397.6 C 901.0 397.6, 950.5 410.2, 1000.0 410.2 C 1051.0 410.2, 1100.5 396.2, 1150.0 396.2 C 1201.0 396.2, 1250.5 418.6, 1300.0 418.6"/>
+  </path>
+  <rect width="1200" height="460" fill="url(#vignette)"/>
+
+  <!-- top bar, like the site -->
+  <g class="up">
+    <circle class="dot" cx="62" cy="58" r="3.5" fill="#00D1FF"/>
+    <text class="mono" x="76" y="62">23.81°N 90.41°E</text>
+    <text class="mono" x="1140" y="62" text-anchor="end">DHAKA · UTC+6</text>
+  </g>
+  <line x1="56" x2="1144" y1="86" y2="86" stroke="#1A1D22"/>
+
+  <g class="up d1"><text class="mono" x="60" y="170">FULL-STACK &amp; AI ENGINEER</text></g>
+  <g class="up d2">
+    <text x="56" y="262" font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="104" letter-spacing="-4">
+      <tspan font-weight="700" fill="url(#shine)">Afif</tspan><tspan dx="22" font-weight="300" fill="none" stroke="#EDEFF2" stroke-width="1.2" class="draw">Alamgir</tspan>
+    </text>
+  </g>
+  <g class="up d3">
+    <text x="60" y="318" font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#6B7280">I build SaaS platforms, CRMs and AI pipelines, from the Postgres schema to the interface.</text>
+  </g>
+
+  <g class="up d4">
+    <text class="mono" x="60" y="414">AFIFALAMGIR.COM ↗</text>
+    <text class="mono" x="1114" y="414" text-anchor="end">SCROLL</text>
+    <line x1="1134" x2="1134" y1="390" y2="424" stroke="#1A1D22"/>
+    <line class="scroll" x1="1134" x2="1134" y1="400" y2="412" stroke="#00D1FF" stroke-width="1.5"/>
+  </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="459" rx="20" fill="none" stroke="#EDEFF2" stroke-opacity=".08"/>
+</svg>

@@ -1,107 +1,68 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=afif404.afif404" alt="Profile Views">
-</p>
+<a href="https://www.afifalamgir.com">
+  <img src="./assets/hero.svg" width="100%" alt="Afif Alamgir — Full-stack & AI engineer. I build SaaS platforms, CRMs and AI pipelines, from the Postgres schema to the interface.">
+</a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100%" style="aspect-ratio: 16/9; object-fit: cover;" alt="Banner">
+  <a href="https://www.afifalamgir.com"><b>Website</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/afif-alamgir/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://medium.com/@afifalamgir">Medium</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Afif-Alamgir">ResearchGate</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://instagram.com/__.lizel.__">Instagram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:afifalamgir@gmail.com">Email</a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Next.js+AI+Engineer;SaaS+%26+Enterprise+Architect;AI%2FML+Researcher;CRM+%2B+CMS+Expert" alt="Typing SVG">
-  <p>
-    <strong>Software Engineer at Techneth</strong> | Specializing in <strong>SaaS Architecture</strong> and <strong>Intelligent Systems</strong>
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    <img src="https://cdn.simpleicons.org/nextdotjs/white" width="15"> Scalable SaaS Architectures &nbsp; | &nbsp; 
-    <img src="https://cdn.simpleicons.org/python/white" width="15"> Autonomous RAG Pipelines &nbsp; | &nbsp; 
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="15"> Custom CRM/CMS Development
-  </p>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=40&section=header" width="100%" alt="wave">
-
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/googlemessages/00d1ff" width="25"> Connect & Network
-</h2>
-
-<div align="center">
-  <a href="https://afifalamgir-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/afif-alamgir">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="mailto:afifalamgir@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-  </a> &nbsp;
-  <a href="https://instagram.com/__.lizel.__">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
+<p align="center"><sub>Software Engineer at <b>Techneth</b> &nbsp;·&nbsp; open to selected projects worldwide</sub></p>
 
 <br>
 
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/stackbit/00d1ff" width="25"> Specialized Systems & Stack
-</h2>
+<img src="./assets/s-01-expertise.svg" width="100%" alt="01 / 05 · Expertise — What I build">
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=350&height=45&duration=3000&color=00D1FF&lines=Languages+%26+Frameworks"><br><br>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="45" title="TypeScript" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" title="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45" title="Next.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" title="Tailwind CSS" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="45" title="Flutter" />
-  <br><br><br>
+| | | | |
+|:--|:--|:--|:--|
+| `01` | **[SaaS platforms](https://www.afifalamgir.com/services/saas-platform-development)** | Multi-tenant apps with subscriptions, billing and role-based access | <sub>Next.js · React · PostgreSQL</sub> |
+| `02` | **[CRM & automation](https://www.afifalamgir.com/services/crm-marketing-automation)** | Custom CRM dashboards, lead tracking, Meta / Google API integrations | <sub>React · Node.js · Meta API</sub> |
+| `03` | **[AI integration](https://www.afifalamgir.com/services/ai-integration)** | RAG pipelines, LLM features and agent workflows wired into real products | <sub>Python · FastAPI · LLMs</sub> |
+| `04` | **[APIs & backend](https://www.afifalamgir.com/services/api-backend-engineering)** | REST and GraphQL APIs, webhooks, background jobs, schema design | <sub>Node.js · Express · Python</sub> |
+| `05` | **[Web applications](https://www.afifalamgir.com/services/web-application-development)** | Fast, SEO-ready client portals, dashboards and consumer platforms | <sub>Next.js · TypeScript</sub> |
+| `06` | **[Mobile apps](https://www.afifalamgir.com/services/mobile-app-development)** | iOS and Android from one codebase, prototype to store launch | <sub>Flutter · Dart · Firebase</sub> |
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=450&height=45&duration=3000&color=00D1FF&lines=SaaS+Infrastructure+%26+Databases"><br><br>
-  <img src="https://cdn.simpleicons.org/django/092E20" width="45" title="Django" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="45" title="FastAPI" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flask/white" width="45" title="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45" title="Firebase" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" title="PostgreSQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" title="MySQL" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" title="MongoDB" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" title="Docker" />
-  <br><br><br>
+<br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=400&height=45&duration=3000&color=00D1FF&lines=AI+Research+%26+Neural+Systems"><br><br>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" title="PyTorch" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" title="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" title="Scikit-learn" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="45" title="NumPy" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/white" width="45" title="Ollama" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/white" width="45" title="LangChain / RAG" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/keras/EE4C2C" width="45" title="CNN" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/3776AB" width="45" title="BNN" />
-  <br><br><br>
+<img src="./assets/s-02-stack.svg" width="100%" alt="02 / 05 · Stack — Tools of the trade">
+<img src="./assets/stack.svg" width="100%" alt="Next.js, React, TypeScript, Node.js, Python, FastAPI, Django, GraphQL, Tailwind CSS, Framer Motion, GSAP, Three.js, Flutter, PostgreSQL, Supabase, Redis, Firebase, Stripe, OpenAI, Anthropic, Gemini, Ollama, PyTorch, TensorFlow, Docker, AWS, Vercel">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=350&height=45&duration=3000&color=00D1FF&lines=Design+%26+Workflow+Tools"><br><br>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="45" title="Canva" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/latex/white" width="45" title="LaTeX" />
+<br><br>
 
-</div>
+<img src="./assets/s-03-research.svg" width="100%" alt="03 / 05 · Research — Binarized neural networks">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=40&section=footer" width="100%" alt="wave">
+> **Optimizing American Sign Language Recognition with Binarized Neural Networks**
+> <sub>Springer Nature · Conference paper · 2024</sub>
+>
+> A network that restricts weights and activations to **+1 and −1**, benchmarked against full-precision CNNs for ASL recognition. Competitive accuracy at a fraction of the memory and compute, built for edge devices.
+>
+> [Read on Springer ↗](https://link.springer.com/chapter/10.1007/978-3-032-11335-1_27) &nbsp;·&nbsp; <sub>`DOI 10.1007/978-3-032-11335-1_27`</sub>
 
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/googleanalytics/00d1ff" width="25"> System Contributions & Activity
-</h2>
+<br>
 
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=afif404&bg_color=1a1b27&color=00d1ff&line=00d1ff&point=white&area=true&hide_border=true&custom_title=System%20Contributions" alt="Activity Graph">
-  <br><br>
-  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afif404&theme=tokyonight" alt="Profile Chart">
-  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afif404&theme=tokyonight" alt="Productivity Chart">
-</div>
+<img src="./assets/s-04-writing.svg" width="100%" alt="04 / 05 · Blog — Engineering notes">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=70&duration=4000&color=00D1FF&lines=Architecting+the+future+with+AI+✌️;Building+Scalable+SaaS+Solutions;Always+open+for+collaboration">
-</h3>
+| | |
+|:--|:--|
+| <sub>`2026.06.01`</sub> | [Next.js Server Components: the "simplified" lie we're all falling for?](https://www.afifalamgir.com/blog/nextjs-server-components-simplified-lie) |
+| <sub>`2026.05.17`</sub> | [From database dread to deployment delight: my Supabase journey](https://www.afifalamgir.com/blog/from-database-dread-to-deployment-delight-my-supabase-journey-as-an-indie-hacker) |
+| <sub>`2026.05.16`</sub> | [Next.js: the frontend king that might be making us over-engineer](https://www.afifalamgir.com/blog/nextjs-frontend-king-over-engineer-hot-take) |
+| <sub>`2026.05.15`</sub> | [AI agents are a trap: why I'm still writing vanilla code](https://www.afifalamgir.com/blog/ai-agents-trap-vanilla-code-2026) |
+
+<p align="right"><sub><a href="https://www.afifalamgir.com/blog">All posts →</a></sub></p>
+
+<img src="./assets/s-05-activity.svg" width="100%" alt="05 / 05 · Activity — Commit signal">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afif404&bg_color=030405&color=6B7280&line=00D1FF&point=EDEFF2&area=true&area_color=00D1FF&hide_border=true&hide_title=true&radius=16" width="100%" alt="Contribution activity graph">
+
+<br><br>
+
+<a href="mailto:afifalamgir@gmail.com">
+  <img src="./assets/footer.svg" width="100%" alt="Send the brief. afifalamgir@gmail.com — Start a project">
+</a>
+
+<p align="center"><sub>Dhaka · UTC+6 &nbsp;·&nbsp; © 2026 Afif Alamgir</sub></p>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 128" width="1200" height="128" role="img" aria-label="What I build">
+<defs>
+  <linearGradient id="pulse" gradientUnits="userSpaceOnUse" x1="-300" x2="0">
+    <stop offset="0" stop-color="#00D1FF" stop-opacity="0"/>
+    <stop offset=".85" stop-color="#00D1FF"/>
+    <stop offset="1" stop-color="#00D1FF" stop-opacity="0"/>
+    <animate attributeName="x1" values="-300;1200" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines=".6 0 .3 1"/>
+    <animate attributeName="x2" values="0;1500" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines=".6 0 .3 1"/>
+  </linearGradient>
+</defs>
+<style>
+  .in{opacity:0;animation:in 1s cubic-bezier(.2,.7,.1,1) forwards}
+  .t{animation-delay:.15s}
+  @keyframes in{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="128" rx="16" fill="#030405"/>
+<g class="in">
+  <text x="40" y="44" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">
+    <tspan fill="#00D1FF">01</tspan><tspan fill="#6B7280"> / 05  ·  EXPERTISE</tspan>
+  </text>
+</g>
+<g class="in t"><text x="38" y="94" font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#EDEFF2">What I build</text></g>
+<line x1="40" x2="1160" y1="116" y2="116" stroke="#1A1D22"/>
+<line x1="40" x2="1160" y1="116" y2="116" stroke="url(#pulse)" stroke-width="1.5"/>
+</svg>
